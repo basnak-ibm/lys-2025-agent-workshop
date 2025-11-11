@@ -84,7 +84,7 @@ Now let's get started!
 1. **Test Without Knowledge**
 
    - Try the preset prompt: _"Company Vacation Policy"_
-   - Notice the agent cannot answer without access to policy documents (or it hallucinates an answer)
+   - The agent cannot answer the actual policy (30 days vacation) without access - it may hallucinates an answer!
 
 2. **Add Company Policy Knowledge**
 
