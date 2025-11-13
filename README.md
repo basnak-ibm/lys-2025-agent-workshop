@@ -140,7 +140,7 @@ Now let's get started!
 ## Finished?
 
 - Experiment by creating your own system prompt instead of the travel agent
-- Go visit https://mcpservers.org/servers/ to explore other tools. Think of other agents you'd want to build!
+- Go visit [MCP Servers](https://mcpservers.org/all) to explore other tools. Think of other agents you'd want to build!
 
 ## Key Takeaways
 
