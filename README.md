@@ -17,9 +17,9 @@ You'll explore three use cases, each with its own AI agent:
 
 ### Tips for Success
 
-- **Use preset prompts** - They're designed to showcase specific capabilities
-- **Experiment** - Try different combinations of settings or ask the AI your own questions
-- **Stuck?** - Ask the **Showcase Agent** any questions you might have
+- **Use preset prompts** - They're designed to showcase specific capabilities.
+- **Experiment** - Try different combinations of settings or ask the AI your own questions. Your changes only affect your agent, not other peoples.
+- **Stuck?** - Ask the **Showcase Agent** any questions you might have.
 
 ## A Few Quick Notes!
 
